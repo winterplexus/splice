@@ -1,0 +1,33 @@
+
+slice                                                                      slice
+
+NAME
+
+  splice - splice sliced files into a single file
+
+SYNOPSIS
+
+  splice (options)
+
+DESCRIPTION
+
+  splice is designed to concatenate files into a single file using files that
+  were created by the slice application.
+
+  The file directory must contain files with a base name containing a period and
+  a sequence number (4 digits with leading zeroes).
+
+  The sequence number must begin at 0001.
+
+FLAGS
+
+  -i  [input file path]
+  -b  [input file base name]
+  -o  [output file name]
+  -s  show file names
+  -h  display usage
+  -v  display version
+
+NOTES
+
+  Copyright (c) 2020-2022 Code Construct Systems (CCS)
