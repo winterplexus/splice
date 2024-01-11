@@ -4,7 +4,7 @@
 **  splice - splice file functions
 **  ------------------------------
 **
-**  copyright (c) 2020-2022 Code Construct Systems (CCS)
+**  copyright (c) 2020-2024 Code Construct Systems (CCS)
 */
 #ifndef __SPLICE_H
 #define __SPLICE_H

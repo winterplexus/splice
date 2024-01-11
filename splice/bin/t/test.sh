@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo splice 1.1.0 release 1
+echo splice 1.2.0 release 1
 echo splice test script - open systems environments
 echo ================================================================================
 

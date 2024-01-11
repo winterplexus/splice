@@ -4,7 +4,7 @@
 **  splice - version information
 **  ----------------------------
 **
-**  copyright (c) 2020-2022 Code Construct Systems (CCS)
+**  copyright (c) 2020-2024 Code Construct Systems (CCS)
 */
 #ifndef __VERSION_H
 #define __VERSION_H
@@ -23,6 +23,6 @@
 ** Define product and version strings
 */
 #define _VERSION_PRODUCT "splice"
-#define _VERSION_RELEASE "splice 1.1.0 release 1"
+#define _VERSION_RELEASE "splice 1.2.0 release 1"
 
 #endif /* __VERSION_H */
