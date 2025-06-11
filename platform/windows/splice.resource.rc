@@ -61,8 +61,8 @@ IDI_ICON1               ICON                    "resource.ico"
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 1,2,0,0
- PRODUCTVERSION 1,2,0,0
+ FILEVERSION 1,3,0,0
+ PRODUCTVERSION 1,3,0,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -79,12 +79,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Code Construct Systems (CCS)"
             VALUE "FileDescription", "Splice text file utility."
-            VALUE "FileVersion", "1.2.0.0"
+            VALUE "FileVersion", "1.3.0.0"
             VALUE "InternalName", "splice.exe"
-            VALUE "LegalCopyright", "Copyright (C) 2020-2024 Code Construct Systems (CCS)"
+            VALUE "LegalCopyright", "Copyright (C) 2020-2025 Code Construct Systems (CCS)"
             VALUE "OriginalFilename", "splice.exe"
             VALUE "ProductName", "splice"
-            VALUE "ProductVersion", "1.2.0.0"
+            VALUE "ProductVersion", "1.3.0.0"
         END
     END
     BLOCK "VarFileInfo"
