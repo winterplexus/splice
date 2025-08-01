@@ -1,6 +1,6 @@
 @echo off
 
-echo.splice 1.2.0 release 1
+echo.splice 1.3.0 release 1
 echo.splice test script - Microsoft Windows OS environment
 echo.================================================================================
 

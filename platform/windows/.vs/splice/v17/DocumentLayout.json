@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\platform\\windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.doc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\modules.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\platform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\options.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\options.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\port.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\port.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0455AF0-CBFB-415D-97B2-E20A48882405}|splice.vcxproj|C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\version.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "splice.doc",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.doc",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\splice.doc",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.doc",
+              "RelativeToolTip": "..\\..\\splice\\src\\splice.doc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002149|",
+              "WhenOpened": "2025-04-15T13:18:41.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\common.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\common.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\common.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:40.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modules.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\modules.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\modules.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\modules.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\modules.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:39.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "platform.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\platform.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\platform.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\platform.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\platform.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "splice.c",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.c",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\splice.c",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.c",
+              "RelativeToolTip": "..\\..\\splice\\src\\splice.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T13:18:29.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "splice.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\splice.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\splice.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\splice.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:27.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "options.c",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\options.c",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\options.c",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\options.c",
+              "RelativeToolTip": "..\\..\\splice\\src\\options.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T13:18:18.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "options.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\options.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\options.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\options.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\options.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:16.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "port.c",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\port.c",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\port.c",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\port.c",
+              "RelativeToolTip": "..\\..\\splice\\src\\port.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-15T13:18:14.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "port.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\port.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\port.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\port.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\port.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:12.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "version.h",
+              "DocumentMoniker": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\version.h",
+              "RelativeDocumentMoniker": "..\\..\\splice\\src\\version.h",
+              "ToolTip": "C:\\Users\\SpanglerE\\Satellite\\Projects\\splice\\splice\\src\\version.h",
+              "RelativeToolTip": "..\\..\\splice\\src\\version.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T13:18:09.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

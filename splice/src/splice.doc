@@ -19,15 +19,10 @@ DESCRIPTION
 
   The sequence number must begin at 0001.
 
-FLAGS
+OPTIONS
 
-  -i  [input file path]
-  -b  [input file base name]
-  -o  [output file name]
-  -s  show file names
-  -h  display usage
-  -v  display version
+
 
 NOTES
 
-  Copyright (c) 2020-2024 Code Construct Systems (CCS)
+  Copyright (c) 2020-2025 Code Construct Systems (CCS)

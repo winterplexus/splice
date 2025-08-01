@@ -4,7 +4,7 @@
 **  splice - command line options
 **  -----------------------------
 **
-**  copyright (c) 2020-2024 Code Construct Systems (CCS)
+**  copyright (c) 2020-2025 Code Construct Systems (CCS)
 */
 #include "modules.h"
 
@@ -15,7 +15,6 @@ static void GetOptionValues(int, char **, options_t *);
 static void SetDefaultOptions(options_t *);
 static void StoreStringOption(int, string_c_t[], int, string_c_t, size_t);
 static long ConvertStringToLong(string_c_t);
-static void DisplayVersion(int);
 static void DisplayUsage(void);
 
 /*
@@ -62,9 +61,6 @@ static void GetOptionValues(int argc, char **argv, options_t *opts) {
         }
         else if (strcmp(argv[i], "-s") == 0) {
             opts->show_file_names = TRUE;
-        }
-        else if (strcmp(argv[i], "-v") == 0) {
-            DisplayVersion(argc);
         }
         else {
             EXIT_APPLICATION(EXIT_FAILURE);
@@ -115,32 +111,15 @@ static long ConvertStringToLong(string_c_t value) {
 }
 
 /*
-** Display version
-*/
-static void DisplayVersion(int argc) {
-    printf("%s - splice text file utility\n", _VERSION_PRODUCT);
-    printf("%s\n\n", _VERSION_RELEASE);
-
-    /*
-    ** Exit application (if no other command line arguments)
-    */
-    if (argc == 2) {
-        EXIT_APPLICATION(EXIT_SUCCESS);
-    }
-}
-
-/*
 ** Display usage
 */
 static void DisplayUsage(void) {
     printf("usage: %s (options)\n\n", _VERSION_PRODUCT);
-    printf("where (options) include:\n\n");
-    printf("-i  [input file path]\n");
-    printf("-b  [input file base name]\n");
-    printf("-o  [output file name]\n");
-    printf("-s  show file names\n");
-    printf("-h  display usage\n");
-    printf("-v  display version\n");
+    printf("options: -i <input file path>\n");
+    printf("         -b <input file base name>\n");
+    printf("         -o <output file name>\n");
+    printf("         -s show file names\n");
+    printf("         -? print this usage\n");
 
     /*
     ** Exit application
