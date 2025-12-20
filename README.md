@@ -1,5 +1,5 @@
 Splice Application
-=================================
+==================
 Splice is an application that will concatenate files into a single file using files that were created by the slice application <https://github.com/winterplexus/slice/>.
 
 Application defaults include:
@@ -8,7 +8,7 @@ Application defaults include:
 * part number is 4 digits with leading zeros 
 * part number sequence must begin at 1
 
-The application is written in ANSI C for both Windows and Linux operating systems.
+The application is written in the C language for both Windows and Linux operating systems.
 
 ### splice
 ```
@@ -19,4 +19,4 @@ options: -i <input file path>
          -o <output file name>
          -s show file names
          -? print this usage
-```		 
+```

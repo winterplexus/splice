@@ -21,7 +21,11 @@ DESCRIPTION
 
 OPTIONS
 
-
+  -i <input file path>
+  -b <input file base name>
+  -o <output file name>
+  -s show file names
+  -? print this usage
 
 NOTES
 
